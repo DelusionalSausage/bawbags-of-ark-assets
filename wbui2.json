@@ -1,0 +1,62 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 60,
+      "iconurl": "https://raw.githubusercontent.com/DelusionalSausage/bawbags-of-ark-assets/refs/heads/main/bawbagsdino.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 2,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 1
+    },
+    "tabs": [
+      {
+        "content": [
+          {
+            "text": "<RichColor Color=\"1,0.851,0,1\">PVE CLUSTER</>\n\n<RichColor Color=\"1,1,1,1\">Welcome to Bawbags of Ark.\nBuild your home, tame your favourites and explore with the community.\n\nUse the buttons below to join our Discord or visit our website.\n\nPress F1 whenever you want to open this panel.</>",
+            "title": "<RichColor Color=\"0.553,1,0,1\">BAWBAGS OF ARK</>"
+          }
+        ],
+        "buttontext": "<RichColor Color=\"0.553,1,0,1\">Welcome</>",
+        "layout": 1,
+        "imageurl": "https://raw.githubusercontent.com/DelusionalSausage/bawbags-of-ark-assets/refs/heads/main/bawbags_background.jpg"
+      },
+      {
+        "content": [
+          {
+            "text": "<RichColor Color=\"1,1,1,1\">Join our Discord to meet other survivors and keep in touch with the community.\n\nFor help, contact the team through Discord.\n\nUse the Website button below to visit our community website and reward shop.</>",
+            "title": "<RichColor Color=\"1,0.851,0,1\">JOIN THE BAWBAGS</>"
+          }
+        ],
+        "buttontext": "<RichColor Color=\"0.553,1,0,1\">Community</>",
+        "layout": 1,
+        "imageurl": "https://raw.githubusercontent.com/DelusionalSausage/bawbags-of-ark-assets/refs/heads/main/bawbags_background.jpg"
+      },
+      {
+        "content": [
+          {
+            "text": "{playerlist}",
+            "title": "<RichColor Color=\"1,0.851,0,1\">CONNECTED PLAYERS</>"
+          }
+        ],
+        "buttontext": "<RichColor Color=\"0.553,1,0,1\">Players</>",
+        "layout": 1,
+        "imageurl": "https://raw.githubusercontent.com/DelusionalSausage/bawbags-of-ark-assets/refs/heads/main/bawbags_background.jpg"
+      }
+    ],
+    "links": [
+      {
+        "text": "<RichColor Color=\"0.553,1,0,1\">Join Discord</>",
+        "url": "https://discord.gg/j9ptJcHkYh"
+      },
+      {
+        "text": "<RichColor Color=\"1,0.851,0,1\">Website & Shop</>",
+        "url": "https://bawbagsofark.premiumark.net"
+      }
+    ],
+    "version": 2
+  }
+}

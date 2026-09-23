@@ -1,0 +1,74 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 60,
+      "iconurl": "https://raw.githubusercontent.com/DelusionalSausage/bawbags-of-ark-assets/refs/heads/main/bawbagsdino.png",
+      "disableicontext": true,
+      "iconposition": 0,
+      "icontextcolor": 2,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 1
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"1,1,1,1\">Welcome</>",
+        "imageurl": "https://raw.githubusercontent.com/DelusionalSausage/bawbags-of-ark-assets/refs/heads/main/bawbags_background.jpg",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0,1,0,1\">WELCOME TO BAWBAGS OF ARK</>",
+            "text": "<TextStyle.White>A community-driven PvE cluster built for balanced progression, long-term adventures and a good laugh. Build, breed, explore or take on the bosses - all at your own pace.</>\n\n<TextStyle.White>Earn </><TextStyle.Green>15 tokens every 15 minutes</><TextStyle.White> automatically while playing, and spend them in our webshop.</>\n\n<TextStyle.White>Link your account to our website for a </><TextStyle.Green>one-off 50-token bonus.</>\n\n<TextStyle.White>Make yourself at home, and join us on Discord!</>"
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "<RichColor Color=\"1,1,1,1\">Settings</>",
+        "imageurl": "https://raw.githubusercontent.com/DelusionalSausage/bawbags-of-ark-assets/refs/heads/main/bawbags_background.jpg",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0,1,0,1\">CLUSTER SETTINGS</>",
+            "text": "<TextStyle.Green>✔ </><TextStyle.White>Game mode: PvE</>\n<TextStyle.Green>✔ </><TextStyle.White>Standard wild dinosaur maximum: 180</>\n<TextStyle.Green>✔ </><TextStyle.White>XP: 2x</>\n<TextStyle.Green>✔ </><TextStyle.White>Harvesting: 3x</>\n<TextStyle.Green>✔ </><TextStyle.White>Taming speed: 5x</>\n<TextStyle.Green>✔ </><TextStyle.White>Crop growth: 10x</>\n<TextStyle.Green>✔ </><TextStyle.White>Unlimited respecs</>\n<TextStyle.Green>✔ </><TextStyle.White>Automatic engram unlocking</>"
+          },
+          {
+            "title": "<RichColor Color=\"0,1,0,1\">BREEDING SETTINGS</>",
+            "text": "<TextStyle.Green>✔ </><TextStyle.White>Baby maturation: 10x</>\n<TextStyle.Green>✔ </><TextStyle.White>Egg hatch speed: 20x</>\n<TextStyle.Green>✔ </><TextStyle.White>Mating interval: 0.1x</>\n<TextStyle.Green>✔ </><TextStyle.White>Baby cuddle interval: 0.1x</>\n<TextStyle.Green>✔ </><TextStyle.White>Baby imprint amount: 5x</>"
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "<RichColor Color=\"1,1,1,1\">Community</>",
+        "imageurl": "https://raw.githubusercontent.com/DelusionalSausage/bawbags-of-ark-assets/refs/heads/main/bawbags_background.jpg",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0,1,0,1\">OUR CLUSTER</>",
+            "text": "<TextStyle.Green>✔ </><TextStyle.White>The Island</>\n<TextStyle.Green>✔ </><TextStyle.White>Scorched Earth</>\n<TextStyle.Green>✔ </><TextStyle.White>Aberration</>\n<TextStyle.Green>✔ </><TextStyle.White>Extinction</>\n<TextStyle.Green>✔ </><TextStyle.White>Genesis: Part 1</>\n<TextStyle.Green>✔ </><TextStyle.White>Ragnarok</>\n<TextStyle.Green>✔ </><TextStyle.White>Valguero</>"
+          },
+          {
+            "title": "<RichColor Color=\"0,1,0,1\">LINKS & SUPPORT</>",
+            "text": "<TextStyle.Green>✔ </><TextStyle.White>Join Discord for community updates and help</>\n<TextStyle.Green>✔ </><TextStyle.White>Visit our website using the button below</>\n<TextStyle.Green>✔ </><TextStyle.White>Transfers stay within the Bawbags cluster</>\n<TextStyle.Green>✔ </><TextStyle.White>External character, creature and item imports closed</>\n<TextStyle.Green>✔ </><TextStyle.White>For help, include your survivor name and map</>\n<TextStyle.Green>✔ </><TextStyle.White>For shop issues, include the purchase details</>"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "url": "https://discord.gg/j9ptJcHkYh",
+        "text": "<RichColor Color=\"0,1,0,1\">[ DISCORD ]</>"
+      },
+      {
+        "url": "https://bawbagsofark.premiumark.net/shop",
+        "text": "<RichColor Color=\"1,1,0,1\">[ REWARD SHOP ]</>"
+      },
+      {
+        "url": "https://bawbagsofark.premiumark.net",
+        "text": "<RichColor Color=\"1,1,1,1\">[ WEBSITE ]</>"
+      }
+    ],
+    "version": 2
+  }
+}

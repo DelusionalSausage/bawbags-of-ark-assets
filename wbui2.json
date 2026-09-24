@@ -20,7 +20,7 @@
         "content": [
           {
             "title": "<RichColor Color=\"0,1,0,1\">WELCOME TO BAWBAGS OF ARK</>",
-            "text": "<TextStyle.White>A community-driven PvE cluster built for balanced progression, long-term adventures and a good laugh. Build, breed, explore or take on the bosses - all at your own pace.</>\n\n<TextStyle.White>Earn </><TextStyle.Green>15 tokens every 15 minutes</><TextStyle.White> automatically while playing, and spend them in our webshop.</>\n\n<TextStyle.White>Link your account to our website for a </><TextStyle.Green>one-off 50-token bonus.</>\n\n<TextStyle.White>Make yourself at home, and join us on Discord!</>"
+            "text": "<TextStyle.White>A community-driven PvE cluster built for balanced progression, long-term adventures and a good laugh. Build, breed, explore or take on the bosses - all at your own pace.</>\n\n<TextStyle.White>Earn </><TextStyle.Green>20 tokens every 30 minutes</><TextStyle.White> while playing. Press </><TextStyle.Green>F3</><TextStyle.White> to open the shop and spend your tokens.</>\n\n<TextStyle.White>Claim a </><TextStyle.Green>starter pack</><TextStyle.White> in the shop to help you on your journey. You must claim it </><TextStyle.Green>before reaching level 60.</>\n\n<TextStyle.White>Make yourself at home, and join us on Discord!</>"
           }
         ]
       },

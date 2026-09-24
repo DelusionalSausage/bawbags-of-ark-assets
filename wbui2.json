@@ -31,7 +31,7 @@
         "content": [
           {
             "title": "<RichColor Color=\"0,1,0,1\">CLUSTER SETTINGS</>",
-            "text": "<TextStyle.Green>✔ </><TextStyle.White>Game mode: PvE</>\n<TextStyle.Green>✔ </><TextStyle.White>Standard wild dinosaur maximum: 180</>\n<TextStyle.Green>✔ </><TextStyle.White>XP: 2x</>\n<TextStyle.Green>✔ </><TextStyle.White>Harvesting: 3x</>\n<TextStyle.Green>✔ </><TextStyle.White>Taming speed: 5x</>\n<TextStyle.Green>✔ </><TextStyle.White>Crop growth: 10x</>\n<TextStyle.Green>✔ </><TextStyle.White>Unlimited respecs</>\n<TextStyle.Green>✔ </><TextStyle.White>Automatic engram unlocking</>"
+            "text": "<TextStyle.Green>✔ </><TextStyle.White>Game mode: PvE</>\n<TextStyle.Green>✔ </><TextStyle.White>Standard wild dinosaur maximum: 180</>\n<TextStyle.Green>✔ </><TextStyle.White>XP: 2x</>\n<TextStyle.Green>✔ </><TextStyle.White>Harvesting: 3x</>\n<TextStyle.Green>✔ </><TextStyle.White>Taming speed: 5x</>\n<TextStyle.Green>✔ </><TextStyle.White>Crop growth: 10x</>\n<TextStyle.Green>✔ </><TextStyle.White>Unlimited respecs</>\n<TextStyle.Green>✔ </><TextStyle.White>Automatic engram unlocking</>\n\n<TextStyle.Green>WEEKEND BONUS</>\n<TextStyle.White>XP, taming, harvesting and breeding rates are doubled on weekends compared with our normal rates.</>"
           },
           {
             "title": "<RichColor Color=\"0,1,0,1\">BREEDING SETTINGS</>",
